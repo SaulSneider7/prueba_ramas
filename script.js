@@ -1,4 +1,4 @@
-// console.log("PQV 😭");
-// console.log('nube gris');
+console.log("PQV 😭");
+console.log('nube gris');
 
 
