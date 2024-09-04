@@ -2,12 +2,10 @@ body {
     background-color: rgb(234, 198, 241);
 }
 h1 {
-    font-family: "Oswald", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    
     font-size: 40px;
     color: rgb(28, 81, 180);
     text-decoration: underline;
     text-align: center;
+    font-family: "Oswald", sans-serif;
 }
